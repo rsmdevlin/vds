@@ -7,7 +7,7 @@
 		"action3": "",
 		"action4": "",
 		"color": "#ffFFB800",
-		"name": "Авторитетный (01)",
+		"name": "Баса научился делать (01)",
 		"new_server": false,
 		"test_server": false
 	},
@@ -35,4 +35,5 @@
 		"new_server": false,
 		"test_server": false
 	}
+
 ]
